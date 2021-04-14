@@ -5,6 +5,7 @@
 [![GitHub rudmer-io](https://img.shields.io/github/followers/rudmer-io?label=follow&style=social)](https://github.com/rudmer-io)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
+### 👨🏻‍💻 &nbsp;About Me
 I'm rudmer-io a Software developer💻. Interested in working on backend and Frontend, API's, Databases, CI/CD. Occasionaly I do participate in Hackathons 💡.
 🌱 I’m currently learning VueJS...
 
@@ -36,3 +37,5 @@ I'm rudmer-io a Software developer💻. Interested in working on backend and Fro
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rudmer-io&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudmer-io&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=9&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
