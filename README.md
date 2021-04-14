@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![version :14.04.2021](https://img.shields.io/badge/version-14.04.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rudmer-io&color=red)&nbsp;
@@ -36,4 +36,9 @@ I'm rudmer-io a Software developer💻. Interested in working on backend and Fro
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rudmer-io&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudmer-io&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=9&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudmer-io&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudmer-io&theme=radical" alt="rudmer-io" /></p>
