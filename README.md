@@ -6,7 +6,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm rudmer-io a Software developer💻. Interested in working on backend and Frontend, API's, Databases, CI/CD. Occasionaly I do participate in Hackathons 💡.
+I'm rudmer-io a Software developer💻 & Devops Engineer. Interested in working on backend and Frontend, API's, Databases, CI/CD. Occasionaly I do participate in Hackathons 💡.
 🌱 I’m currently learning VueJS...
 
 ### Connect with me :smiley:
